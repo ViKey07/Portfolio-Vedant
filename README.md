@@ -13,3 +13,19 @@ Hi, My name is Vedant Kulkarni, Here you will able to see the deatails about me.
 ### :small_blue_diamond: Info 
 ![PorfolioHome](https://user-images.githubusercontent.com/99425379/223430455-f4c9a583-4cad-44aa-88be-825646416eac.png)
 
+### :small_blue_diamond: About me
+![About](https://user-images.githubusercontent.com/99425379/223430781-5f019f8c-572f-431e-aa39-323eba044207.png)
+
+### :small_blue_diamond: Technical Skills
+![Skills](https://user-images.githubusercontent.com/99425379/223430994-9def6cfe-cbda-47b6-a50d-3aa61f574847.png)
+
+### :small_blue_diamond: Featured Projects
+![Projects](https://user-images.githubusercontent.com/99425379/223431221-30dbdbb8-2260-4f7e-a3a7-78cc76b1bc68.png)
+
+### :small_blue_diamond: Contact me form
+![Contact](https://user-images.githubusercontent.com/99425379/223431500-493d72e6-ee4a-4209-ab7a-3cf6e76f55b4.png)
+
+## :large_blue_diamond: Mobile view
+| Info part | About me | Technical Skills | Featured Projects | Github Statistics | Contact Me |
+|-----------|----------|------------------|-------------------|-------------------|------------|
+![Mobile1](https://user-images.githubusercontent.com/99425379/223432647-f3317dd4-62c0-472b-bb3d-d83101a12dcd.png)![Mobile2](https://user-images.githubusercontent.com/99425379/223432735-0b4ecbe6-d86c-470f-ba87-5f2285d0fcb5.png)![Mobile3](https://user-images.githubusercontent.com/99425379/223432750-5a2ccb16-7301-4c16-bb1c-932fc6dbde9c.png)![Mobile4](https://user-images.githubusercontent.com/99425379/223432776-59b5fc94-b669-48cb-a856-fb18a46c787b.png)
