@@ -28,3 +28,4 @@ Hi, My name is Vedant Kulkarni, Here you will able to see the deatails about me.
 ## :large_blue_diamond: Mobile view
 ![Mobile1](https://user-images.githubusercontent.com/99425379/223432647-f3317dd4-62c0-472b-bb3d-d83101a12dcd.png) ![Mobile2](https://user-images.githubusercontent.com/99425379/223432735-0b4ecbe6-d86c-470f-ba87-5f2285d0fcb5.png) ![Mobile6](https://user-images.githubusercontent.com/99425379/223434754-1efa0f85-3429-4de9-a7fc-e15df40f9965.png) ![Mobile4](https://user-images.githubusercontent.com/99425379/223432776-59b5fc94-b669-48cb-a856-fb18a46c787b.png)
 
+Thank you. 🙂
