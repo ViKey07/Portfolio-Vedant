@@ -11,4 +11,5 @@ Hi, My name is Vedant Kulkarni, Here you will able to see the deatails about me.
 
 ***
 ### :small_blue_diamond: Info 
-<img src="https://user-images.githubusercontent.com/94675329/221532606-e50b03b1-2c08-434f-8a9e-6b95630648aa.PNG" />
+![PorfolioHome](https://user-images.githubusercontent.com/99425379/223430455-f4c9a583-4cad-44aa-88be-825646416eac.png)
+
